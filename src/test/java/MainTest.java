@@ -1,4 +1,4 @@
-//import app.config.AppConfig;
+//import app.config.AppConfig
 //import app.model.AnimalsCage;
 //import org.junit.Assert;
 //import org.junit.Test;
