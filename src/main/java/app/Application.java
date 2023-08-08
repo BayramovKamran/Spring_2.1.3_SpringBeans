@@ -1,4 +1,4 @@
-package app;
+package app
 
 import app.config.AppConfig;
 import app.model.AnimalsCage;
