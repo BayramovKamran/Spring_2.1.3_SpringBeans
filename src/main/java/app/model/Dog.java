@@ -7,6 +7,6 @@ public class Dog extends Animal {
 
     @Override
     public String toString() {
-        return "I'm a dog";
+        return "Im a dog";
     }
 }
